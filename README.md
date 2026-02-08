@@ -1,0 +1,2 @@
+# Lyx
+Sectoral trials
